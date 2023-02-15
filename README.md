@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Install dependencies
 
+@angular/fire": "^7.5.0",
+
 @popperjs/core": "^2.11.6",
 
 bootstrap": "^5.2.3",
